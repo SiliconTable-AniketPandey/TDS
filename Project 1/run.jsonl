@@ -1,2 +1,4 @@
-{"type": "incoming", "chat_id": 1696585474, "text": "What is 15% of 200? Reply with ONLY this JSON: {\"answer\": , \"log_url\": \"...\"}", "timestamp": 1785011277.0134366}
-{"type": "outgoing", "chat_id": 1696585474, "text": "{\"answer\": 30, \"log_url\": \"PASTE_YOUR_PUBLIC_LOG_URL_HERE\"}", "timestamp": 1785011281.9835188}
+{"type": "incoming", "chat_id": 1696585474, "text": "start", "timestamp": 1785425725.2190135}
+{"type": "outgoing", "chat_id": 1696585474, "text": "{\"error\": \"no question provided\", \"message\": \"Please send a data-analysis question and the exact JSON shape you want returned.\", \"log_url\": \"t.me/Lermo9314bot\"}", "timestamp": 1785425733.9611568}
+{"type": "incoming", "chat_id": 1696585474, "text": "What is 15% of 200? Reply with ONLY this JSON: {\"answer\": , \"log_url\": \"...\"}", "timestamp": 1785425748.985686}
+{"type": "outgoing", "chat_id": 1696585474, "text": "{\"answer\": 30, \"log_url\": \"t.me/Lermo9314bot\"}", "timestamp": 1785425757.944028}
