@@ -4,3 +4,5 @@
 {"type": "outgoing", "chat_id": 1696585474, "text": "{\"answer\": 30, \"log_url\": \"t.me/Lermo9314bot\"}", "timestamp": 1785425757.944028}
 {"type": "incoming", "chat_id": 1696585474, "text": "Which planet is the fourth and fifth planet in the solar system? Reply with ONLY this JSON: {\"answer\": , \"log_url\": \"...\"}", "timestamp": 1786532641.4056}
 {"type": "outgoing", "chat_id": 1696585474, "text": "{\"answer\": [\"Mars\", \"Jupiter\"], \"log_url\": \"https://raw.githubusercontent.com/SiliconTable-AniketPandey/TDS/main/run.jsonl\"}", "timestamp": 1786532646.716848}
+{"type": "incoming", "chat_id": 1696585474, "text": "What came first egg or hen? Reply with ONLY this JSON: {\"answer\": , \"log_url\": \"...\"}", "timestamp": 1786532975.5866709}
+{"type": "outgoing", "chat_id": 1696585474, "text": "{\"answer\": \"Egg. Evolutionarily, egg-laying ancestors produced a proto-chicken egg containing mutations that created the first true chicken.\", \"log_url\": \"https://raw.githubusercontent.com/SiliconTable-AniketPandey/TDS/main/run.jsonl\"}", "timestamp": 1786532982.4648013}
